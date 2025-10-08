@@ -23,7 +23,6 @@ git clone https://github.com/<your-username>/house-price-prediction-api.git
 cd house-price-prediction-api
 python -m venv env
 .\env\Scripts\activate   # Windows
-source env/bin/activate  # Mac/Linux
 pip install -r requirements.txt
 ```
 ----
