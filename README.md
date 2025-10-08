@@ -43,14 +43,23 @@ Health check → http://127.0.0.1:8000/health
 
 ## Screenshots
 
-## 📊 Exploratory Data Analysis
-Correlation Heatmap:
-![Correlation Heatmap](assets/correlation_heatmap.png)
+### Correlation Heatmap
+![Correlation Heatmap](assets/Correlation%20Heatmap.png)
 
-## 🚀 API in Action
-Swagger UI:
-![Swagger UI](assets/swagger_ui.png)
+### Swagger UI
+![Swagger UI](assets/Swagger%20UI.png)
 
-Example Prediction:
-![Prediction Example](assets/prediction_example.png)
+### Example Prediction
+![Example Prediction](assets/Example%20Prediction.png)
+``
+## Model Performance
+
+**Linear Regression (chosen model):**
+MAE: ~970,000
+RMSE: ~1,320,000
+R²: ~0.65
+**Random Forest (for comparison):**
+MAE: ~1,010,000
+RMSE: ~1,390,000
+R²: ~0.61
 
