@@ -165,6 +165,23 @@ feature importances (for tree-based models)
 
 This surfaces the top contributing features for each prediction.
 
+## Screenshots
+
+### Correlation Heatmap
+![Correlation Heatmap](assets/Correlation Heatmap.png)
+
+### Example Prediction
+![Example Prediction](assets/Example Prediction.png)
+
+### Streamlit UI
+![Streamlit UI](assets/Stml.png)
+
+### Streamlit UI 2
+![Streamlit UI 2](assets/stml2.png)
+
+### Swagger UI
+![Swagger UI](assets/Swagger UI.png)
+
 🌱 Future Enhancements
 
 SHAP-based model explanations
