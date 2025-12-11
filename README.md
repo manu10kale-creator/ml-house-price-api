@@ -168,10 +168,10 @@ This surfaces the top contributing features for each prediction.
 ## Screenshots
 
 ### Correlation Heatmap
-![Correlation Heatmap](assets/Correlation Heatmap.png)
+![Correlation Heatmap](assets/Correlation%20Heatmap.png)
 
 ### Example Prediction
-![Example Prediction](assets/Example Prediction.png)
+![Example Prediction](assets/Example%20Prediction.png)
 
 ### Streamlit UI
 ![Streamlit UI](assets/Stml.png)
@@ -180,7 +180,7 @@ This surfaces the top contributing features for each prediction.
 ![Streamlit UI 2](assets/stml2.png)
 
 ### Swagger UI
-![Swagger UI](assets/Swagger UI.png)
+![Swagger UI](assets/Swagger%20UI.png)
 
 🌱 Future Enhancements
 
